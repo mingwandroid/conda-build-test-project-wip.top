@@ -6,3 +6,7 @@
 	path = sub2
 	url = ../conda-build-test-project-wip.sub2
 	branch = main
+[submodule "sub1_sub1/in/a/deeper/location"]
+	path = sub1_sub1/in/a/deeper/location
+	url = ../conda-build-test-project-wip.sub1.sub1
+	branch = main
