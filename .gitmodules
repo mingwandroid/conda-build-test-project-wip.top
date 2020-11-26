@@ -1,0 +1,8 @@
+[submodule "sub1"]
+	path = sub1
+	url = ../conda-build-test-project-wip.sub1
+	branch = main
+[submodule "sub2"]
+	path = sub2
+	url = ../conda-build-test-project-wip.sub2
+	branch = main
